@@ -1,6 +1,6 @@
 # Data-Analysis-projects
 
-## 1. Emerging Tech Skills Analysis
+## Emerging Tech Skills Analysis
 
 ### 📌 Project Overview
 This project aims to analyze emerging and in-demand technology skills using various data sources, including job postings, training portals, and the latest Stack Overflow Developer Survey. The analysis helps a global IT consulting firm stay competitive by identifying trends in programming languages, database technologies, and development tools.
