@@ -1,6 +1,33 @@
-# Data-Analysis-projects
+# Data Analysis projects
+## Multinational Quarterly Sales Report
 
-## Emerging Tech Skills Analysis
+### 📌 Project Overview
+In this project I analyze data of a multinational bicycle manufacturer, operates sales globally. The executive board and sales management team require quarterly sales data to assess past performance and guide strategic decisions for the upcoming quarter.
+
+This report provides an interactive data story, helping stakeholders gain insights into sales trends, regional performance, category analysis, and salesperson contributions.
+
+### 🎯 Objectives
+- Review and transform the dataset and identify the measures and fields needed to support the story. 
+- Create a report in Power BI desktop by appropriate selection of chart.
+- Drive insights from the story.
+
+### 🛠 Tools Used
+- Power BI desktop and Power BI Service
+- DAX for advanced calculations
+
+### 📁 Report Content
+Executive Board Dashboard:
+- Quarterly Sales Performance Overview
+- Key Sales Trends (Regions, Categories, Salespersons)
+- Summary of High/Low Performing Areas
+- Strategic Insights for Decision Making
+
+Sales Management Interactive Report:
+- Granular breakdown of sales performance
+- Filters and drill-down capabilities
+- Detailed comparison with previous periods
+
+## Emerging Tech Skills Analysis 
 
 ### 📌 Project Overview
 This project aims to analyze emerging and in-demand technology skills using the latest Stack Overflow Developer Survey. The analysis helps a global IT consulting firm stay competitive by identifying trends in programming languages, database technologies, and development tools.
