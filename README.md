@@ -1,4 +1,9 @@
 # Data Analysis projects
+Content:
+- Dream Craft Sales and Orders
+- Multinational Quarterly Sales Report
+- Emerging Tech Skills Analysis
+  
 ## Dream Craft Sales and Orders
 
 ### 📌 Project Overview
