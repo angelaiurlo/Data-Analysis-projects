@@ -1,4 +1,31 @@
 # Data Analysis projects
+## Dream Craft Sales and Orders
+
+### 📌 Project Overview
+Dream Craft is a company specialized in producing and selling miniaturized classic car models and collectibles. Operating globally with multiple offices, the company aims to enhance sales performance and streamline data management using Snowflake for database centralization and Power BI for business intelligence.
+
+This project involves building a comprehensive sales and order analytics dashboard in Power BI, utilizing data from Snowflake to provide real-time insights into revenue, customer trends, product performance, and sales representative effectiveness.
+### 🎯 Objectives
+- Centralize Sales Data: improve data accuracy and accessibility with Snowflake.
+- Enhance Business Intelligence: implement Power BI dashboards for better decision-making.
+- Monitor Sales Performance: track revenue, orders, and customer purchases.
+- Improve Operational Efficiency: identify bottlenecks and streamline processes.
+
+### 🗂️ Database Schema
+
+The following tables were used to structure the data:
+- Offices: Stores office locations and details.
+- Employees: Contains employee and sales representative information.
+- Customers: Includes customer details and assigned sales reps.
+- Products and Product Lines: Stores product details, categories, and pricing.
+- Orders and Order Details: Tracks customer orders and purchased products.
+- Payments: Contains customer payment records.
+
+### 🛠 Tools Used
+- Database: Snowflake
+- Visualization: Power BI
+- Data Processing: SQL
+
 ## Multinational Quarterly Sales Report
 
 ### 📌 Project Overview
