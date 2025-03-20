@@ -1,9 +1,37 @@
 # Data Analysis projects
 Content:
+- Vanishing Glaciers and Rising Seas: Veneto’s Climate Story
 - Dream Craft Sales and Orders
 - Multinational Quarterly Sales Report
 - Emerging Tech Skills Analysis
   
+## Vanishing Glaciers and Rising Seas: Veneto’s Climate Story
+Power BI Dashboard exploring climate change in the Veneto region, analyzing temperature trends, precipitation levels, sea level rise, glacier shrinkage, and air quality.
+
+### 🚀 Features
+- Temperature trends (1992-2023, +0.57°C per decade) 📈
+
+- Precipitation changes (2023: -1.5% compared to the 1991-2020 average) 🌧
+
+- Sea level rise in Venice (2.5 mm/year since 1872) 🌊
+
+- Glacier shrinkage (-45.9% between 1910 and 2014) 🏔
+
+- Air quality analysis: PM10 exposure and pollen concentration 🍃 
+
+### 📂 Datasets
+- https://indicatoriambientali.isprambiente.it/it
+
+- https://www.arpa.veneto.it/dati-ambientali/open-data
+
+- https://statistica.regione.veneto.it/index.jsp
+
+- https://www.comune.venezia.it/it/content/dati-e-statistiche
+
+### 🛠 Tools Used
+- Visualization: Power BI
+- Official environmental datasets from Italian sources
+
 ## Dream Craft Sales and Orders
 
 ### 📌 Project Overview
